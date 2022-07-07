@@ -40,23 +40,16 @@ career-profile:
       - Ready to travel, resilient.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Cloud Connectivity and Infrastructure Architect
+      time: 2021 - Present
+      company: Novo Nordisk A/S , Copenhagen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+        - Responsible for the architecture, design, and planning of modern IT environments, focusing on Microsoft Azure Cloud.
+        - Cloud Advisor for infrastructure and solution architecture for the line of business, focused on Production IT.
+        - Reference design of a scandalized Connectivity setup in a Hybrid- and Multi-Cloud environment (Azure, AWS, SaaS. Providers, on-prem. Datacenters).
+        - Design and Implementation of Cloud Projects.
+    - role: Lead Cloud Infrastructure Architect
+      time: 2017 - 2021
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -68,15 +61,22 @@ experiences:
           - Bullet point
     - role: UI Developer
       time: 2012 - 2014
-      company: Amazon, London
+      company: FLSmidth A/S, Copenhagen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Responsible for the architecture, design and planning of new IT environments.
+        - Organizing and leading of a global team focused on Azure Cloud.
+        - Implementation of the "cloud strategy" in the company.
+        - Transforming and extending the existing applications to cloud solutions.
+        - Infrastructures and technologies, such as:
+          - MPLS and VPN connections.
+          - Data Hosting (File and Databases)
+          - Web Services
+          - Migration from IaaS to PaaS and SaaS Services in Azure.
+          - IoT for analyzing field data from cement plants.
+          - HPC (high-performance computing) in Azure Cloud.
+       - Solution architect for the migration of local IT systems in the remote locations worldwide, as well as centralization and consolidation of global services (DNS, DHCP, SCCM etc.) into the main data centers and integration of these with Microsoft Azure cloud solutions.
+       - Solution Architect and part of the team to migrate the two largest central data centers in Denmark to Microsoft Azure.
+
 projects:
     title: Projects
     intro: >
