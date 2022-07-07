@@ -3,11 +3,11 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Parrick Hayo
+    name: Patrick Hayo
     tagline: Cloud Infrasturcure and Solution Architect
     avatar: LinkedIn_ph.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -15,11 +15,10 @@ sidebar:
     email: patrick.hayo@icloud.com
     phone: 045 41 37 16 77
     timezone: Europe/Berlin Timezone
-    citizenship: German
+    citizenship: Germany
     linkedin: patrickhayo
-    xing: patrickhayo
     github: adminph-de
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.icloud.com/iclouddrive/0fekLv4F7a2Ukr5cBT75GVcMw#CV_EN_2022-06_L
 
     languages:
       - idiom: German
@@ -31,37 +30,26 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      - More than 20 years of experiences in IT projects by focusing on complex systems and processes.
-      - Experienced with IT organization, management and leadership, motivation and responsibility.
+      - More than 20 years of experience in IT projects with complex systems and processes.
+      - Experienced in IT organization, management, and leadership.
       - Fast learner, entrepreneurial thinking & acting.
-      - Business oriented problem solving and project implementation.
+      - Business-oriented problem solving and project implementation.
       - Experience in working and leading international teams.
       - High social competence as well as integrity.
       - Ready to travel, resilient.
-
 experiences:
     - role: Senior Cloud Connectivity and Infrastructure Architect
       time: 2021 - Present
-      company: Novo Nordisk A/S , Copenhagen
+      company: Novo Nordisk A/S , Copenhagen (Denmark)
       details: |
+        Member of CCoE (Cloud Centre of Excellence) Team, Responsibility Cloud Connectivity.
         - Responsible for the architecture, design, and planning of modern IT environments, focusing on Microsoft Azure Cloud.
         - Cloud Advisor for infrastructure and solution architecture for the line of business, focused on Production IT.
         - Reference design of a scandalized Connectivity setup in a Hybrid- and Multi-Cloud environment (Azure, AWS, SaaS. Providers, on-prem. Datacenters).
         - Design and Implementation of Cloud Projects.
     - role: Lead Cloud Infrastructure Architect
       time: 2017 - 2021
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: FLSmidth A/S, Copenhagen
+      company: FLSmidth A/S, Copenhagen (Denmark)
       details: |
         - Responsible for the architecture, design and planning of new IT environments.
         - Organizing and leading of a global team focused on Azure Cloud.
@@ -74,57 +62,118 @@ experiences:
           - Migration from IaaS to PaaS and SaaS Services in Azure.
           - IoT for analyzing field data from cement plants.
           - HPC (high-performance computing) in Azure Cloud.
-       - Solution architect for the migration of local IT systems in the remote locations worldwide, as well as centralization and consolidation of global services (DNS, DHCP, SCCM etc.) into the main data centers and integration of these with Microsoft Azure cloud solutions.
-       - Solution Architect and part of the team to migrate the two largest central data centers in Denmark to Microsoft Azure.
+        - Solution architect for the migration of local IT systems in the remote locations worldwide, as well as centralization and consolidation of global services (DNS, DHCP, SCCM etc.) into the main data centers and integration of these with Microsoft Azure cloud solutions.
+        - Solution Architect and part of the team to migrate the two largest central data centers in Denmark to Microsoft Azure.
+        - role: Lead Cloud Infrastructure Architect
+    - role: CC Lead Hosting Services
+      time: 2015 – 2017
+      company: FLSmidth Wadgassen GmbH, Saarbrücken (Germany)
+      details: |
+        Management of an international team, consisting of 15 colleagues, in the area of infrastructure and IT core systems.
+        - Responsible core technologies:
+          - Network (WAN, MPLS, VPN / LAN)
+          - Backup Systems (CommVault, Veeam).
+          - Server / Desktop Virtualization (VMware, Microsoft).
+          - Storage Systems (SAS, iSCSI and FC with EMC, Hitachi, DataCore).
+          - Firewall (Checkpoint, Cisco).
+          - WAN Optimization (Riverbed).
+        - Areas of responsibility, design and planning for:
+          - All globally distributed data centers (Europe, America and Asia)
+          - Globally connected remote sites (about 100).
+        - Organizational area:
+          - Team coordination.
+          - L2 support coordination.
+          - License Management (VMware).
+          - Concept development.
+          - Report to the global IT manager.
+          - Support of other technology teams.
+          - Coordination of external consulting projects.
+    - role: Lead IT Specialist Infrastructure 
+      time: 2012 – 2015 
+      company: FLSmidth Wadgassen GmbH, Saarbrücken (Germany)
+      details: |
+        Member of the corporation, global strategic IT team
+        - Network and Infrastructure Team (LAN, WAN - MPLS, VPN, Cisco).
+        - Hosting Services Team (VMware, Storage, Backup)
+        - Integration Team (planning and development of global IT standards)
+        - Technical IT planning and management of all EMEA offices (locations):
+          - Italy
+          - Germany
+          - France
+          - Russia
+          - Spain
+          - Czech Republic
+          - Poland
+          - South Africa
+          - England
+          - Austria
+          - Switzerland
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Kubernetes Cluster with PAS-X® (PoC)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "The PoC aims to evaluate the PAS-X application's transformation from a 100% on-premises bare-metal installation to a modern containerized setup."
+    
+      - title: Sandbox Environment of Production IT (PoC)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "We are building a Referent design to provide a possibility to create a clone of the Production IT Application- and Infrastructure (Digital Twin) in Microsoft Azure, to use it as Develop, Troubleshooting, Validation Environment."
 
-      - title: Tempo
+      - title: Transforming POInT to Microsoft Azure (PRD)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "We are transforming the Production IT Application “POInT” into a cloud-native Azure Application. The currently used POInT installation is based on a bear-metal SQL Server deployed in one of our NNIT Datacenters, and the Server ran out of capacity and hardware maintenance. Uses technologies in Azure are Microsoft Azure Managed SQL Instance and Microsoft Azure Web Application."
 
-      - title: Atom
+      - title: ZeroTrust Connectivity with zSCALER®
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Following the company’s strategy of a ZeroTrust future design. This contains a redesign of the global connection setup. The goal is to switch from an infrastructure connectivity desing (MPLS, SDWAN, IWAN) to a more application-driven design (Broker based). It contains both use Cloud Provider (Azure, AWS), on-premises data centers (Equinix, NNIT), and all affiliates on a global scale. "
 
-      - title: Delta
+      - title: HPC in Microsoft Azure Cloud
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Building an HPC (high-performance computing) solution for Ansys and Rocky, based on Docker container technology. Placed in Microsoft Azure and available to end engineers. The systems are distributed in 3 different Azure regions (West Europe, Central India and East US2). The solution replaces an existing HP locally hosted HPC solution."
+
+      - title: Migration Remote Sites
+        link: "#"
+        tagline: "Migration of all remote sites in EMEA (28) and Australia (18). Existing servers and systems will be globally centralized and relocated to Microsoft Azure Cloud. Partly in lift-and-shift scenarios, partly in new implementations of existing IT systems (ERP, EDM and PDM systems)."
+
+      - title: Migration global Data Centers
+        link: "#"
+        tagline: "Closing the two largest global data centers in Denmark. More than 1300 servers and services needs to get analyzed and discovered for the transformation to Microsoft Azure (placed on VMware vSphere 6.5 infrastructure)."
+
+      - title: Designing a WAN connection between different company locations
+        link: "#https://www.linkedin.com/in/patrickhayo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbUpNsBpZ4nO3O2Ks0EJWLqlpK0umS9HH0,1591274479510)/?locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKWKDtAqoTauPZ9roLWj5Cw%3D%3D"
+        tagline: "This project was a cooperation with my friend's company to help him with my knowledge about building a redundant WAN Network infrastructures. The project's goal was to interconnect different company locations for his customer to provide VDI solutions on VMware Horizon to all employees in the various company departments (3 geographical areas)."
+
+      - title: Transforming the global ERP (Epicor 10) to Azure
+        link: "#https://www.linkedin.com/in/patrickhayo/details/projects/"
+        tagline: "Following the Cloud Transformation strategy, we faced the challenge of migrating our global ERP system (EPICOR 10) to Azure Cloud. After a try by doing this in a Lift and Shift scenario with the on-premise deployed and designed servers (VMware vSphere VMs), we ran in a lot of performance issues after the migration. On a global scale, users complained about the performance and usability of the provide ERP system after the migration."
+
+      - title: Realize the global Cloud Strategie
+        link: "#https://www.linkedin.com/in/patrickhayo/details/projects/"
+        tagline: "It is is an ongoing project and involves the implementation of the FLSmidth cloud strategy. Workloads of all global datacenters get analyzed and prepared for the transfer to a cloud environment (Azure). We use lift-and-shift technologies as well as the development and expansion of all-important global and local applications. Besides, new applications and workloads will be developed in Azure and made available to users. The goal is to accompany FLSmidth on the way to the cloud (Azure)."
+
+      - title: Datacenter migration to INEXIO hosted Co-Location
+        link: "#https://www.linkedin.com/in/patrickhayo/details/projects/"
+        tagline: "This project was about to migrate the largest Datacenter in Germany (Wadgassen) operated by FLSmidth to a Co-Location hosted by INEXIO (Astra Park Saarlouis). The main site in Wadgassen was connected to the Datacenter of INEXIO in Saarlouis with a dark-fiber connection. The goal was to perform a no business interrupted migration of all applications and systems during the migration without downtime, as well as a performance- and user experience improvement during the daily work with the applications and systems."
+
+      - title: 3D Datacenter hosted Workstation with VMware Horizon View
+        link: "#https://www.linkedin.com/in/patrickhayo/details/projects/"
+        tagline: "This project was about to exchange the existing 3D workstations with a 3D VDI solution. The management' focuses on hosting 3D workstations in the central datacenter without losing engineers' usual performance experience and improving the performance by editing and creating 3D designs with SolidWorks. Great emphasis got placed on better utilization of the system resources of all 3D workstations. Sharing and optimizing the utilization of the 3D environment was one of the keywords."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Azure Site Recovery (ASR) status analysis with PowerShell and PowerBI"
+        link: "https://www.linkedin.com/pulse/azure-site-recovery-asr-status-analysis-powershell-powerbi-hayo"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Small Use-Case with Windows 2019 and Container (IIS Service)"
+        link: "https://www.linkedin.com/pulse/small-use-case-windows-2019-container-iis-service-patrick-hayo"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Providing License Server in Azure"
+        link: "https://www.linkedin.com/pulse/providing-license-server-azure-patrick-hayo"
+
+      - title: "Azure BGInfo Extension"
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6694358357022674946/"
 
 skills:
     title: Skills &amp; Proficiency
