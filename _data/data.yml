@@ -14,13 +14,11 @@ sidebar:
     # Sidebar links
     email: patrick.hayo@icloud.com
     phone: 045 41 37 16 77
-    timezone: America/Cancun Timezone
+    timezone: Europe/Berlin Timezone
     citizenship: German
-    website: blog.webjeda.com #do not add http://
     linkedin: patrickhayo
     xing: patrickhayo
-    github: patrickhayo
-    bitbucket:
+    github: adminph-de
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -30,48 +28,17 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      - More than 20 years of experiences in IT projects by focusing on complex systems and processes.
+      - Experienced with IT organization, management and leadership, motivation and responsibility.
+      - Fast learner, entrepreneurial thinking & acting.
+      - Business oriented problem solving and project implementation.
+      - Experience in working and leading international teams.
+      - High social competence as well as integrity.
+      - Ready to travel, resilient.
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
