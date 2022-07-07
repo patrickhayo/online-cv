@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Patrick Hayo
@@ -23,9 +23,18 @@ sidebar:
     languages:
       - idiom: German
         level: Native
-
       - idiom: English
         level: Professional
+
+    interests:
+      - item: Mounten Biking
+        link: "#"
+      - item: Online Games
+        link: "#"
+      - item: Lego
+        link: "#"
+      - item: Reading
+        link: "#"
 
 career-profile:
     title: Profile
@@ -37,6 +46,33 @@ career-profile:
       - Experience in working and leading international teams.
       - High social competence as well as integrity.
       - Ready to travel, resilient.
+
+education:
+    - degree: "Produktdesigner Maschinenbau"
+      university: Maschinenfabrik Meyer GmbH
+      time: 1989 - 1993
+      details:
+    - degree: "IHK zertifizierter Netzwerktechniker"
+      university: BFW Saarland GmbH
+      time: 1996 - 1997
+      details:
+    - degree: "Microsoft MCP, MCSE"
+      university: TEACH GmbH & Co. KG
+      time: 2000 - 2003
+      details:
+    - degree: "VMware VCP"
+      university: New Horizons Computer
+      time: 2009
+      details:
+    - degree: "Cisco CCNA"
+      university: TEACH GmbH & Co. KG
+      time: 2010
+      details:
+    - degree: "DataCore Engineer DCIE"
+      university: DataCore Software
+      time: 2015
+      details:
+
 experiences:
     - role: Senior Cloud Connectivity and Infrastructure Architect
       time: 2021 - Present
@@ -179,23 +215,40 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Cisco
+        level: 80%
+      - name: DataCore
+        level: 80%
+      - name: Microsoft Windows
+        level: 100%
+      - name: Microsoft Hyper-V
+        level: 70%
+      - name: Linux
+        level: 100%
+      - name: VMware vSphere
+        level: 90%
+      - name: Microsoft Azure Cloud
+        level: 100%
+      - name: Oracle Cloud
+        level: 80%
+      - name: Amazon AWS Cloud
+        level: 50%
+      - name: Microsoft Azure DevOps
+        level: 75%
+      - name: GitHub
         level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Terraform
+        level: 100%
+      - name: Ansible
+        level: 50%
+      - name: PowerShell
+        level: 75%
+      - name: Bash Scripting
+        level: 90%
+      - name: Azure CLI
+        level: 90%
+      - name: Python
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
