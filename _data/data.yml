@@ -54,15 +54,15 @@ education:
       university: Maschinenfabrik Meyer GmbH
       time: 1989 - 1993
       details:
-    - degree: "IHK zertifizierter Netzwerktechniker"
+    - degree: "IHK Zertifizierter Netzwerk-Techniker"
       university: BFW Saarland GmbH
-      time: 1996 - 1997
+      time: 1996
       details:
-    - degree: "Microsoft MCP, MCSE (Win2000)"
+    - degree: "Microsoft MCP and MCSE (Win2000)"
       university: TEACH GmbH & Co. KG
       time: 2001
       details:
-    - degree: "Microsoft MCP, MCSE (Win2003)"
+    - degree: "Microsoft MCSE (Win2003)"
       university: TEACH GmbH & Co. KG
       time: 2004
       details:
