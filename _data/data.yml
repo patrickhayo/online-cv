@@ -58,9 +58,17 @@ education:
       university: BFW Saarland GmbH
       time: 1996 - 1997
       details:
-    - degree: "Microsoft MCP, MCSE"
+    - degree: "Microsoft MCP, MCSE (Win2000)"
       university: TEACH GmbH & Co. KG
-      time: 2000 - 2003
+      time: 2001
+      details:
+    - degree: "Microsoft MCP, MCSE (Win2003)"
+      university: TEACH GmbH & Co. KG
+      time: 2004
+      details:
+    - degree: "Microsoft MCITP (Win2008)"
+      university: TEACH GmbH & Co. KG
+      time: 2008
       details:
     - degree: "VMware VCP"
       university: New Horizons Computer
