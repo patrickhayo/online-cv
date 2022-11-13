@@ -85,8 +85,16 @@ education:
       details:
 
 experiences:
-    - role: Senior Cloud Connectivity and Infrastructure Architect
-      time: 2021 - Present
+    - role: Senior Information Security Architect
+      time: 2023 - Present
+      company: Novo Nordisk A/S , Copenhagen (Denmark)
+      details: |
+        Member of the ZTCoE (ZeroTrust Center of Excellence) team to implement Zero-Trust architectures to improve user experience. 
+        - Focus on solution design and engineering of scalable multi-cloud (Azure, AWS) applications in complex enterprise production IT environments. 
+        - Transforming traditional WAN connections (MPLS, VPN, SDWAN) to broker-based (ZScaler).
+        - Technology architect and advisor for line-of-business-driven projects in complex enterprise environments to evaluate Industry 4.0 solutions.
+    - role: Senior Cloud Connectivity Architect
+      time: 2021 - 2023
       company: Novo Nordisk A/S , Copenhagen (Denmark)
       details: |
         Member of CCoE (Cloud Centre of Excellence) Team, Responsibility Cloud Connectivity.
@@ -159,6 +167,9 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - titel: ZeroTrust Modern Connectivity
+        link: "#"
+        tagline: "Desin and build a new modern connectivity with ZScaler in aligment with the ZeroTrust strategie"
       - title: Kubernetes Cluster with PAS-X® (PoC)
         link: "#hook"
         tagline: "The PoC aims to evaluate the PAS-X application's transformation from a 100% on-premises bare-metal installation to a modern containerized setup."
