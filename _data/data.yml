@@ -167,9 +167,10 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - titel: ZeroTrust Modern Connectivity
+      - title: ZeroTrust Modern Connectivity
         link: "#"
         tagline: "Desin and build a new modern connectivity with ZScaler in aligment with the ZeroTrust strategie"
+        
       - title: Kubernetes Cluster with PAS-X® (PoC)
         link: "#hook"
         tagline: "The PoC aims to evaluate the PAS-X application's transformation from a 100% on-premises bare-metal installation to a modern containerized setup."
