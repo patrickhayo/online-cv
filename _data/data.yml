@@ -89,10 +89,11 @@ experiences:
       time: November 2022 - Present
       company: Novo Nordisk A/S , Copenhagen (Denmark)
       details: |
-        Member of the ZTCoE (ZeroTrust Center of Excellence) team to implement Zero-Trust architectures to improve user experience. 
-        - Focus on solution design and engineering of scalable multi-cloud (Azure, AWS) applications in complex enterprise production IT environments. 
-        - Transforming traditional WAN connections (MPLS, VPN, SDWAN) to broker-based (ZScaler).
-        - Technology architect and advisor for line-of-business-driven projects in complex enterprise environments to evaluate Industry 4.0 solutions.
+        Architect in the Novo Nordisk ZeroTrust Developer Team, designing and building a ZeroTrust Automation & Orchestration Platform. The platform orchestrates implementation processes across SaaS providers (Zscaler, Azure, AWS, ServiceNow, SailPoint) to deliver secure and scalable enterprise services.
+        - Solution architect & engineer for multi-cloud and SaaS integrations in complex enterprise environments
+        - Solution advisor for Novo Nordisk’s ZeroTrust strategy across business areas
+        - Orchestration of security and automation processes across Zscaler, Azure, AWS, ServiceNow, and SailPoint
+        - Modernizing enterprise connectivity by evolving legacy WAN models (MPLS, VPN, SD-WAN) into broker-based, ZeroTrust-enabled access architectures that improve security, resilience, and user experience
     - role: Senior Cloud Connectivity Architect
       time: July 2021 - November 2022
       company: Novo Nordisk A/S , Copenhagen (Denmark)
@@ -272,7 +273,12 @@ skills:
         level: 90%
       - name: Python
         level: 10%
-
+      - name: ZScaler Private Access (ZPA)
+        level: 100%
+      - name: ZScaler Internet Access (ZIA)
+        level: 80%
+      - name: ZScaler Cloud Security
+        level: 100%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 
